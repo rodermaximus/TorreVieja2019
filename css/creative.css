@@ -24,7 +24,7 @@
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #f4623a;
+  --primary: #00A6FF;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -4596,7 +4596,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #f4623a;
+  color: #23249C;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -4629,8 +4629,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
   z-index: 1;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #23249C;
+  border-color: #23249C;
 }
 
 .page-item.disabled .page-link {
@@ -4713,12 +4713,12 @@ a.badge:hover, a.badge:focus {
 
 .badge-primary {
   color: #fff;
-  background-color: #f4623a;
+  background-color: #23249C;
 }
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #ee3e0d;
+  background-color: #23249C;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
@@ -5024,7 +5024,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   color: #fff;
   text-align: center;
   white-space: nowrap;
-  background-color: #f4623a;
+  background-color: #23249C;
   transition: width 0.6s ease;
 }
 
@@ -5114,8 +5114,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #f4623a;
-  border-color: #f4623a;
+  background-color: #23249C;
+  border-color: #23249C;
 }
 
 .list-group-horizontal {
@@ -6335,7 +6335,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #f4623a !important;
+  border-color: #23249C !important;
 }
 
 .border-secondary {
