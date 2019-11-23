@@ -133,8 +133,8 @@ recopilacion de datos
 
 
 hexadecimal azules:
-claro-> #00A6FF
-oscuro->#23249C
+claro-> #00A6FF  rgb(0, 166, 255)	
+oscuro->#23249C rgb(36, 35, 156)
 
 EVENTOS: 
 
