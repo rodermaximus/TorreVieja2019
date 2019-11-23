@@ -1,2 +1,2 @@
-ocre->#D18B00
-granate->#840015
+azul claro->#00A6FF
+azul oscuro->#23249C
