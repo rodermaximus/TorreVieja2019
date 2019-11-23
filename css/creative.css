@@ -5928,6 +5928,7 @@ a.close.disabled {
 
 .carousel {
   position: relative;
+  background-color: 
 }
 
 .carousel.pointer-event {
@@ -9733,6 +9734,8 @@ header.masthead h1 {
 }
 
 /* NUEVAS */
+/* $b: 1.5em; // border-width */
+
 .imgcar {
     /* position: relative; */
     width:  500px;
@@ -9740,4 +9743,25 @@ header.masthead h1 {
     background-position: 50% 50%;
     background-repeat:   no-repeat;
     background-size:     cover;
+
+	/* border: solid rgba(#fff, .2); */
+	border-right: 500px solid black;
+	border-left: 500px solid black;
+	border-image: url(../webimages/torredelmoro.jpg) 100 round;
+	border-color: transparent;
+
+	/* height: 50vmin; */
+	/* max-width: 13em; */
+	/* max-height: 7em; */
+	/* background: url(../webimages/torredelmoro.jpg) 50%/ cover  */
+
+	/* border-box /* background-origin */ */
+	/* padding-box /* background-clip */; */
 }
+.imgtest{
+	width: 10%;
+	margin-left: 0 -40%;
+	margin-right: 0 -40%;
+	z-index: 0;
+}
+
