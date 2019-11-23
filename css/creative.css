@@ -9731,3 +9731,13 @@ header.masthead h1 {
 #portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption {
   opacity: 1;
 }
+
+/* NUEVAS */
+.imgcar {
+    /* position: relative; */
+    width:  500px;
+    height: 500px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
