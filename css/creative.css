@@ -9759,3 +9759,7 @@ header.masthead h1 {
 	/* padding-box /* background-clip */; */
 }
 
+.iconmenu{
+	width:  60px;
+	height: 60px;
+}
