@@ -9366,11 +9366,11 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #f4623a !important;
+  color: #23249C !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #d6370c !important;
+  color: #23249C !important;
 }
 
 .text-secondary {
@@ -9566,7 +9566,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #f4623a;
+  border-color:#00A6FF;
 }
 
 hr.light {
