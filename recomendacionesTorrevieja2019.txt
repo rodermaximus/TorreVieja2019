@@ -1,0 +1,27 @@
+Cosas que nos ha dicho el profesor de Informática:
+
+hub oscila
+hub de eventos
+
+decir que vamos a hacer nuestra idea en base a apis que ya existen de relaciones y recomendaciones
+google ya tiene una api asi
+
+nombrar las apis de recomendaciones de Google 
+bitquery
+
+basarnos en estas apis en vez de desarrollar nosotros de 0 e intentar mejorar esas apis
+
+
+Cosas que ha dicho el tio que se parece a Jaime Lanister:
+telefonica no nos va a decir donde esta la gente
+pero nuestra app puede servir como generador de datos y si revelar donde esta la gente
+
+tenemos que concretar la idea
+
+sistemas de recomendacion:
+basados en contenido -> compras algo y te recomiendan algo parecido
+filtro colaborativo-> hay una persona que compra esto esto y esto, y tu has comprado esto, esto y esto 
+esa persona ha comprado otra cosa que tu no pero como os pareceis, pues te lo recomiendo tambien
+
+Serembitias(?)-> cuando te recomiendan algo que no tiene nada que ver contigo pero a traves de los filtros colaborativos te lo recomiendan y tiene un sentido
+
