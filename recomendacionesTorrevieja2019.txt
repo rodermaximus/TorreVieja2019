@@ -25,3 +25,120 @@ esa persona ha comprado otra cosa que tu no pero como os pareceis, pues te lo re
 
 Serembitias(?)-> cuando te recomiendan algo que no tiene nada que ver contigo pero a traves de los filtros colaborativos te lo recomiendan y tiene un sentido
 
+Constructor:
+Gabriel
+
+para una app movil
+
+amazon web servecies -> un año gratis free TR -> maquinitas de 1GB 
+primero promocianar la plataforma web y que luego vamos a hacer una app
+en la web relacionar a los clientes y las empresas
+
+te ahorras mas dinero si solo mantienes una web que no web,app y otro app 
+
+
+grupo grande:
+el procesamiento de datos es dificil
+tenemos que tener un incentivo para el usuario
+normalizar el proceso 
+
+sacar los datos de otras plataformas y no recaudar nosotros los datos
+
+encontrar dataSet para que nos de información relevante para nosotros
+
+hay bases de datos que se pueden comprar -> para un futuro
+
+detectar muy bien que datos son los que necesitamos
+
+si no puedo conseguir estos datos ahora podemos explicar como lo haremos viable en un futuro
+
+el perfilado de usuario es muy dificil-> como lo conseguimos? -> incentivos
+
+que ganos como usuario metinedo mis datos ahi
+
+mmirar si hay apis que me permitan buscar datos de aplicaciones que nos no dejan
+
+tengo un CSV -> como paso de tener eso  a relacionarlo bien
+
+ponderaciones
+
+hacer una encuesta a los usuarios y a las empresas 
+
+Solar o Elastic
+
+no nos recomiendan meternos en algoritmos de matching
+
+una suma de pesos muy simple para el producto minimo viable
+
+antes de ponernos a desarrollarlo tenemos que ver si es viable
+
+tenemos que buscar un caso base
+
+cunado sepamos lo que vamos a hacer -> buscar si hay algo que ya existe y ver en que somos mejores y en que nos diferenciamos
+
+desarrollo del modelo de negocio -> lean canvas
+
+hablar con otro grupo que va a hacer algo parecido pero de hoteles -> eso al jurado le gusta, le gusta ver que aunque seamos rivales podemos colaborar juntos
+
+
+
+
+El de ADE:
+
+publico objetivo
+
+como sacamos pasta? -> 
+quien es nuestra competencia?->
+nuestra propuesta de valor-> personalizacion individual y filtro
+trabajar con la geolocalizacion y con la zona horaria
+
+una startuo tiene que ser escalabre y rentable
+
+tenemos que crear traccion de empresas y clientes
+esto en la presentacion tenemos que tenerlo claro 
+
+
+
+
+
+nos valoran el impacto
+la utilidad
+originalidad
+uso de datos
+grado de acabado-> lo que tengamos implementando y lo bien desarrollada que este la idea
+
+google calendar no hay en ios
+
+tenemos que centrarnos en hacer una interfaz bonita y no en hacer codigo
+
+con justinmine podemos hacer como una apk pero que no es funcional
+
+
+
+IDEAS:
+
+hub
+de empressas
+de usuarios
+
+web de explicacion
+minima aplicacion funcional o un mockup
+
+modelo de negocios
+
+diseño
+
+recopilacion de datos
+
+
+
+hexadecimal azules:
+claro-> #00A6FF
+oscuro->#23249C
+
+EVENTOS: 
+
+parque -> “LA CIUDAD ES NUESTRA”:   LA CULTURA TORREVEJENSE -> SÁBADO 23 NOVIEMBRE De 11:00 H. a 13:00 H. -> gratis
+palacio de la musica-> audicion violonchelo -> JUEVES 28 NOVIEMBRE / 18:00 H. -> gratis
+teatro municipal-> TEATRO “TODAS LAS NOCHES   DE UN DÍA -> SÁBADO 07 DICIEMBRE / 20:00 H. -> Precio: 15€ (Venta a cargo del IMC)
+centro cultural virgen del carmen -> hackea tu destino 2019 ->gratis
